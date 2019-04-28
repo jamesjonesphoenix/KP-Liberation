@@ -4,7 +4,7 @@
     File: fn_virtual_preInit.sqf
     Author: KP Liberation Dev Team - https://github.com/KillahPotatoes
     Date: 2018-11-18
-    Last Update: 2018-12-17
+    Last Update: 2019-04-29
     License: GNU General Public License v3.0 - https://www.gnu.org/licenses/gpl-3.0.html
 
     Description:
@@ -70,7 +70,7 @@ if (hasInterface) then {
         switch (_curator getVariable ["KPLIB_mode", 0]) do {
             // Limited mode
             case 1: {
-                [_curator, getPos player] call KPLIB_fnc_virtual_curatorAreaLimit;
+                [_curator, getPosATL player] call KPLIB_fnc_virtual_curatorAreaLimit;
             };
         };
     }] call CBA_fnc_addEventHandler;
