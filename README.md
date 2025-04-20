@@ -32,7 +32,7 @@ If you like the work and think it's worth a small donation, feel free to use the
 [Donate via paypal.me](https://www.paypal.me/wyqer)
 
 ## Overview
-The area has fallen to the enemy, and it is up to you to take it back. Embark on a persistent campaign with your teammates to liberate all the major cities of the area that will most likely span several weeks of real time.
+Blegh The area has fallen to the enemy, and it is up to you to take it back. Embark on a persistent campaign with your teammates to liberate all the major cities of the area that will most likely span several weeks of real time.
 * Experience a massive “Capture the Island” campaign involving a large range of different settlements across the entire area.
 * Cooperate with up to 34 players, including a Commanding role, two fire-team squads, a medevac and a logistical support squad as well as AI recruits to fill the gaps.
 * Purchase both infantry and both ground and air vehicles using three different types of physical resources; supplies, ammunition and fuel.
